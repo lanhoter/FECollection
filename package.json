@@ -1,0 +1,31 @@
+{
+  "name": "fecollection",
+  "version": "1.0.0",
+  "description": "Useful things during my frontend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanhoter/FECollection.git"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "Mengyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanhoter/FECollection/issues"
+  },
+  "homepage": "https://github.com/lanhoter/FECollection#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
